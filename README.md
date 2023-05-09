@@ -29,7 +29,8 @@ Second task - Set up geofence space:
 Please click here to view wireframes in [Figma](https://www.figma.com/file/bXOugTmTdcLJkUJOAWC0Of/DH110-a05?type=whiteboard&node-id=0%3A1&t=gEdHBoqjWhsOZlCA-1)
 
 Evidence of tester doing tasks:
-
+[Picture 1](6971683585449_.pic_hd.jpg)
+[Picture 2](6981683585451_.pic_hd.jpg)
 
 Flow description:
 > First, you start at the home page. To access the emergency page, click on "Emergency" in the navigation bar at the bottom. From there, click on the dropdown bar to see quick access to phone calls. Click the "+" sign to add more contacts. Once you have completed all the necessary information, click "Done" to return to the emergency page. If you do not wish to save anything, click "Back" to go back without saving.
